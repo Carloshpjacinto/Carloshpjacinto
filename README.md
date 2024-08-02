@@ -17,6 +17,10 @@
 
 #### 💻 Experiência como Atendente, Customer Success Analyst, Desenvolvedor RPA
 
+## Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 ### ☕ Entrar em contato
 
 <div>
