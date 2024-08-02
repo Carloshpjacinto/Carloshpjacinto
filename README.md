@@ -31,7 +31,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" width="40" height="40"/>
 </div>
 
-### Banco de dados
+### *_Banco de dados_*
 
  <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
@@ -39,7 +39,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
  </div>
 
-### Serviços | Softwares
+### *_Serviços | Softwares*_
 
  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
@@ -51,14 +51,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
  </div>
 
-### Sistemas Operacionais
+### *_Sistemas Operacionais*_
 
  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="40" height="40"/>
  </div>
 
-### ☕ Entrar em contato
+## ☕ Entrar em contato
 
 <div>
  <a href="https://www.linkedin.com/in/carlos-henrique-parreira-jacinto-1962b0179/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>   
