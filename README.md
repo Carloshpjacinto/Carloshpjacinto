@@ -5,7 +5,10 @@
 #### Bem-vindo ao meu GitHub
 
 ### 💻 Um pouco Sobre mim
-
 - 🇧🇷 Brasileiro
-- 👶🏾 Aniversário 
+- 👶🏾 Aniversário 1 de Maio de 1997
 - 🤖 Apaixonado por Tecnologia
+- 🎮 Adoro Games
+- 📚 Adoro ler
+
+  
