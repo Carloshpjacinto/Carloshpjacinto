@@ -11,7 +11,7 @@
 - 🎮 Adoro Games
 - 📚 Adoro ler
 
-#### 👊🏾 Atualmente, estou totalmente focado em encontrar uma oportunidade como Analista de Sistemas ou Arquiteto de Software, também estou realizando uma formação/Especialização de Arquiteto de Software na DNC.
+#### 👊🏾 Atualmente, estou totalmente focado em encontrar uma oportunidade como Analista de Sistemas ou Arquiteto de Software, também estou realizando uma formação/Especialização de Arquiteto de Software na Escola DNC.
 
 #### 💼 Analista de Sistemas, Arquiteto de Software, Desenvolvedor RPA.
 
