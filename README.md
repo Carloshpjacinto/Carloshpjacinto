@@ -3,5 +3,11 @@
 
 #### Bem-vindo ao meu GitHub
 
-## Um pouco Sobre mim
+### 💻 Um pouco Sobre mim
 
+  -
+  -
+  -
+  -
+  -
+  
