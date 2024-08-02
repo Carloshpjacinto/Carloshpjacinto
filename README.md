@@ -13,9 +13,9 @@
 
 #### 👊🏾 Atualmente, estou totalmente focado em encontrar uma oportunidade como Analista de Sistemas ou Arquiteto de Software, também estou realizando uma formação/Especialização de Arquiteto de Software na Escola DNC.
 
-#### 💼 Analista de Sistemas, Arquiteto de Software, Desenvolvedor RPA.
+#### 💼 Arquiteto de Software, Analista de Sistemas, Desenvolvedor RPA.
 
-#### 💻 Experiência como Atendente, Customer Success Analyst, Desenvolvedor RPA
+#### 💻 Experiência como Desenvolvedor RPA, Customer Success Analyst, Customer Service
 
 ## Ferramentas e Tecnologias:
 
