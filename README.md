@@ -11,7 +11,7 @@
 - 🎮 Gosto muito de games
 - 📚 Adoro ler
 
-#### 👊🏾 Atualmente, estou totalmente focado em encontrar uma oportunidade como Desenvolvedor Full Stack ou em uma posição   semelhante. Além disso, estou cursando uma pós-graduação/especialização em Arquiteto de Software na Escola DNC.
+#### 👊🏾 Atualmente, estou totalmente focado em encontrar uma oportunidade como Desenvolvedor Full Stack ou em uma posição semelhante. Além disso, estou cursando uma pós-graduação/especialização em Arquiteto de Software na Escola DNC.
 
 #### 💼 Desenvolvedor Full Stack, Analista de Sistemas e Desenvolvedor RPA.
 
