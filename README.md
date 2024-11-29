@@ -1,21 +1,21 @@
 # Olá, Devs! 🖖
 
-### Olá, sou Carlos Henrique Parreira Jacinto 😁💎
+### Sou Carlos Henrique Parreira Jacinto 😁💎
 
 #### Bem-vindo ao meu GitHub
 
 ### 👤 Um pouco Sobre mim
 - 🇧🇷 Brasileiro
-- 👶🏾 Aniversário 1 de Maio de 1997
-- 🤖 Apaixonado por Tecnologia
-- 🎮 Adoro Games
+- 👶🏾 Aniversário: 1º de maio de 1997
+- 🤖 Apaixonado por tecnologia
+- 🎮 Gosto muito de games
 - 📚 Adoro ler
 
-#### 👊🏾 Atualmente, estou totalmente focado em encontrar uma oportunidade como Analista de Sistemas ou Arquiteto de Software, também estou realizando uma formação/Especialização de Arquiteto de Software na Escola DNC.
+#### 👊🏾 Atualmente, estou totalmente focado em encontrar uma oportunidade como Desenvolvedor Full Stack ou em uma posição semelhante. Além disso, estou cursando uma pós-graduação/especialização em Arquiteto de Software na Escola DNC.
 
-#### 💼 Arquiteto de Software, Analista de Sistemas, Desenvolvedor RPA.
+#### 💼 Desenvolvedor Full Stack, Analista de Sistemas e Desenvolvedor RPA.
 
-#### 💻 Experiência como Desenvolvedor RPA, Customer Success Analyst, Customer Service
+#### 💻 Experiência como Desenvolvedor Full Stack, Desenvolvedor RPA e Analista de Customer Success.
 
 ## Ferramentas e Tecnologias:
 
@@ -23,13 +23,13 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" width="40" height="40"/>
 </div>
 
 ### *_- Banco de dados_*
