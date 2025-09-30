@@ -11,11 +11,9 @@
 - 🎮 Gosto muito de games
 - 📚 Adoro ler
 
-#### 👊🏾 Atualmente, estou totalmente focado em encontrar uma oportunidade como Desenvolvedor Full Stack ou em uma posição semelhante. Além disso, estou cursando uma pós-graduação/especialização em Arquiteto de Software na Escola DNC.
+#### 👊🏾 Atualmente, desempenho a função de Engenheiro de Software Low-Code na Tech4Humans.
 
-#### 💼 Desenvolvedor Full Stack, Analista de Sistemas e Desenvolvedor RPA.
-
-#### 💻 Experiência como Desenvolvedor Full Stack, Desenvolvedor RPA e Analista de Customer Success.
+#### 💼 Engenheiro de Software, Arquiteto de Software, Analista de Sistemas e Desenvolvedor Low-Code.
 
 ## Ferramentas e Tecnologias:
 
