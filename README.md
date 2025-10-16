@@ -11,9 +11,9 @@
 - 🎮 Gosto muito de games
 - 📚 Adoro ler
 
-#### 👊🏾 Atualmente, desempenho a função de Engenheiro de Software Low-Code na Tech4Humans.
+#### 💼 Atualmente, trabalho como Low-Code Software Engineer na Tech for Humans.
 
-#### 💼 Engenheiro de Software, Arquiteto de Software, Analista de Sistemas e Desenvolvedor Low-Code.
+#### 🧑🏾‍💻 Engenheiro de Software, Arquiteto de Software, Analista de Sistemas e Desenvolvedor Low-Code.
 
 ## Ferramentas e Tecnologias:
 
